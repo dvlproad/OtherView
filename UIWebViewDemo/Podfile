@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+
+target 'UIWebViewDemo' do
+  pod 'CJRefreshVC', '~> 1.0.0'
+  pod 'TOWebViewController', '~> 2.0.19' #小型的网页浏览器，具有前进、后退、刷新、分享等功能，并且具有加载进度条。
+end
+

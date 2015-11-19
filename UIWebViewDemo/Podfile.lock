@@ -1,0 +1,19 @@
+PODS:
+  - CJRefreshVC (1.0.0):
+    - MBProgressHUD (~> 0.9.1)
+    - MJRefresh (~> 2.4.12)
+  - MBProgressHUD (0.9.1)
+  - MJRefresh (2.4.12)
+  - TOWebViewController (2.0.19)
+
+DEPENDENCIES:
+  - CJRefreshVC (~> 1.0.0)
+  - TOWebViewController (~> 2.0.19)
+
+SPEC CHECKSUMS:
+  CJRefreshVC: 35b6517e3b9f98dcbbb4b8e5dc2c2f6a8b1abe60
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJRefresh: ca8e9589895977df32d379d46e6b8a5450b3ff44
+  TOWebViewController: accd62ec0acc8d5c2e1e195c6f7ff7654c3c840c
+
+COCOAPODS: 0.39.0
